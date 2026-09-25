@@ -1,4 +1,4 @@
-const MAILGUN_API_KEY = "key-3ax6xnjp29jd6fds4gc373sgvjxteol0";
+const MAILGUN_API_KEY = "DUMMY-NE-JAMAIS-UTILISER-key-0000000000000000";
 
 document.getElementById("form-contact").addEventListener("submit", function(e) {
   e.preventDefault();
